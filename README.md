@@ -8,6 +8,5 @@
 <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" width="40px"></img></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNSjcEBzERzpVyOVryBpSiuiTtmP9H_zR3k38OKXQDm-BJQbNku2nr-F1JQvLFoU8kl3s&usqp=CAU" width="40px"></img></code>
 <code><img src="https://www.shareicon.net/download/2015/08/31/93786_bootstrap_512x512.png" width="40px"></img></code>
-<code><img src="![image](https://user-images.githubusercontent.com/103635590/181831483-5335037a-717f-460f-9c61-56d488f0ec33.png)
-" width="40px"></img></code>
+<code><img src="https://w7.pngwing.com/pngs/634/455/png-transparent-javascript-computer-icons-java-script-angle-text-logo.png" width="40px"></img></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/768px-HTML5_logo_black.svg.png" width="40px"></img></code>
