@@ -3,4 +3,4 @@
 
 ### Languages and tools I work with:
 
-<code><img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/1024px-HTML5_logo_black.svg.png](https://w7.pngwing.com/pngs/584/376/png-transparent-html-logo-world-wide-web-consortium-font-family-html-tag-sale-tag-text-happy-birthday-vector-images-thumbnail.png)" width="40px"></img></code>
+<code><img src="https://www.pngitem.com/pimgs/m/398-3982124_html-php-css-logo-png-transparent-png.png" width="40px"></img></code>
