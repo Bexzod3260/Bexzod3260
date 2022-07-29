@@ -3,4 +3,4 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://w7.pngwing.com/pngs/584/376/png-transparent-html-logo-world-wide-web-consortium-font-family-html-tag-sale-tag-text-happy-birthday-vector-images-thumbnail.png" width="40px"></img></code>
+<code><img src="https://pngimage.net/wp-content/uploads/2018/06/html5-icon-png-7.png" width="40px"></img></code>
