@@ -10,3 +10,6 @@
 <code><img src="https://www.shareicon.net/download/2015/08/31/93786_bootstrap_512x512.png" width="30px"></img></code>
 <code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="30px"></img></code>
 <code><img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="30px"></img></code>
+<br/>
+
+📍 &nbsp; Current location: Tashkent, Uzbekistan
