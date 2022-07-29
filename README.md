@@ -3,4 +3,4 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://www.liblogo.com/img-logo/ht431w813-html-5-logo-c-html5-logo.png" width="40px"></img></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/768px-HTML5_logo_black.svg.png" width="40px"></img></code>
